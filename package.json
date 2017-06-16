@@ -1,5 +1,6 @@
 {
-  "name": "@export-mike/run-scripts",
+  "name": "@mikeljames/run-scripts",
+  "private": false,
   "version": "1.0.0",
 	"bin": {
 		"run-scripts": "./index.js"
