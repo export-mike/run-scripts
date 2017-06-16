@@ -2,8 +2,8 @@
 run-scripts allows you to add/remove run scripts to your package json in a oneliner.
 
 ```
-run-scripts test mocha
-run-scripts debug node --inspect --debug-brk index.js
+run-scripts add test mocha
+run-scripts add debug node --inspect --debug-brk index.js
 ```
 
 both commands would add:
